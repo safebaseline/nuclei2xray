@@ -1,6 +1,6 @@
 # Nuclei2Xray
 
-一个用Go语言编写的工具，用于将Nuclei的POC（概念验证）转换为Xray的POC格式。
+一个用Go语言编写的工具，用于将Nuclei的POC（概念验证）转换为Xray的POC格式（AI写的，我只提供了概念）。
 
 ## 功能特性
 
@@ -208,4 +208,5 @@ detail:
 ## 许可证
 
 MIT License
+
 
